@@ -58,7 +58,7 @@ class NewVersionWorker(
         )
         val channelId = applicationContext.getString(R.string.app_update_notification_channel_id)
         val notificationBuilder = NotificationCompat.Builder(applicationContext, channelId)
-            .setSmallIcon(R.drawable.ic_tubular_update)
+            .setSmallIcon(R.drawable.ic_monzatube_update)
             .setVisibility(NotificationCompat.VISIBILITY_PUBLIC)
             .setAutoCancel(true)
             .setContentIntent(pendingIntent)
@@ -139,7 +139,7 @@ class NewVersionWorker(
     companion object {
         private val DEBUG = MainActivity.DEBUG
         private val TAG = NewVersionWorker::class.java.simpleName
-        private const val NEWPIPE_API_URL = "https://api.github.com/repos/polymorphicshade/Tubular/releases/latest"
+        private const val NEWPIPE_API_URL = "https://api.github.com/repos/MrElie/Tubular/releases/latest"
         private const val IS_MANUAL = "isManual"
 
         @JvmStatic

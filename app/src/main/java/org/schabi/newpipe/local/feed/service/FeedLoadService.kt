@@ -140,7 +140,7 @@ class FeedLoadService : Service() {
         return NotificationCompat.Builder(this, getString(R.string.notification_channel_id))
             .setOngoing(true)
             .setProgress(-1, -1, true)
-            .setSmallIcon(R.drawable.ic_tubular_white)
+            .setSmallIcon(R.drawable.ic_monzatube_white)
             .setVisibility(NotificationCompat.VISIBILITY_PUBLIC)
             .addAction(0, getString(R.string.cancel), cancelActionIntent)
             .setContentTitle(getString(R.string.feed_notification_loading))

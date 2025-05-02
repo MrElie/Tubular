@@ -6,5 +6,5 @@
 
     <item
         android:gravity="center"
-        android:drawable="@drawable/splash_foreground"/>
+        android:drawable="@drawable/monzalogo"/>
 </layer-list>
