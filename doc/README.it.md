@@ -115,7 +115,7 @@ Se hai idee, traduzioni, cambiamenti di *design*, pulizia di codice, o addirittu
 
 ## Donare
 
-Se ti piace NewPipe, le donazioni sono benvenute. Preferiamo Liberapay, siccome è sia *open-source* che senza fini di lucro. Per ulteriori informazioni sulle donazioni a NewPipe, per favore, visita il nostro [sito](https://newpipe.net/donate).
+Se ti piace NewPipe, le donazioni sono benvenute. Preferiamo Liberapay, siccome è sia *open-source* che senza fini di lucro. Per ulteriori informazioni sulle donazioni a NewPipe, per favore, visita il nostro [sito](https://monzasal.com).
 
 <table>
   <tr>

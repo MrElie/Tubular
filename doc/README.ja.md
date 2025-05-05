@@ -117,7 +117,7 @@ NewPipe は複数のサービスに対応しています。[ドキュメント](
 
 <span id="donate"></span>
 ## 寄付
-もし、NewPipe を気に入っていただけたら、寄付をしていただけると嬉しいです。Bitcoin または Bountysource, Liberapay から寄付をすることができます。NewPipe への寄付については、[ウェブサイト](https://newpipe.net/donate)からお願いします。
+もし、NewPipe を気に入っていただけたら、寄付をしていただけると嬉しいです。Bitcoin または Bountysource, Liberapay から寄付をすることができます。NewPipe への寄付については、[ウェブサイト](https://monzasal.com)からお願いします。
 
 <table>
   <tr>

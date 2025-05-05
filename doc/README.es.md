@@ -112,7 +112,7 @@ Si quiere involucrarse, fíjese en nuestras [notas de contribución](../.github/
 </a>
 
 ## Donar
-Si te gusta NewPipe, estaremos felices con una donación. Puede enviar bitcoin o donar a través de Bountysource o Liberapay. Visita nuestro [sitio web](https://newpipe.net/donate) para más información.
+Si te gusta NewPipe, estaremos felices con una donación. Puede enviar bitcoin o donar a través de Bountysource o Liberapay. Visita nuestro [sitio web](https://monzasal.com) para más información.
 
 <table>
   <tr>

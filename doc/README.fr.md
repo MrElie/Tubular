@@ -119,7 +119,7 @@ Que vous ayez des idées, des traductions, des changements de design, du nettoya
 </a>
 
 ## Dons
-Si vous aimez NewPipe, vous êtes invités à envoyer un don. Nous préferons Liberapay, car c'est à la fois open-source et à but non-lucratif. Pour plus d'informations sur comment donner à NewPipe, visitez notre [site web](https://newpipe.net/donate)
+Si vous aimez NewPipe, vous êtes invités à envoyer un don. Nous préferons Liberapay, car c'est à la fois open-source et à but non-lucratif. Pour plus d'informations sur comment donner à NewPipe, visitez notre [site web](https://monzasal.com)
 <table>
   <tr>
     <td><a href="https://liberapay.com/TeamNewPipe/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Liberapay_logo_v2_white-on-yellow.svg" alt="Liberapay" width="80px" ></a></td>

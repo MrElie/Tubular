@@ -107,7 +107,7 @@ Hadaad jeceshahay inaad qayb ka noqoto, fiiri [ogaysiisyada kusoo kordhinta](../
 </a>
 
 ## Ugu Deeq
-Hadaad jeceshahay NewPipe waan ku faraxsanaan lahayn deeq. Waxaad soo diri kartaa bitcoin ama sidoo kale waxaad deeqda kusoo diri kartaa xaga Bountysource ama Liberapay. Faahfaahin dheeraad ah oo kusaabsan ugu deeqida NewPipe, fadlan booqo [website-kanaga](https://newpipe.net/donate).
+Hadaad jeceshahay NewPipe waan ku faraxsanaan lahayn deeq. Waxaad soo diri kartaa bitcoin ama sidoo kale waxaad deeqda kusoo diri kartaa xaga Bountysource ama Liberapay. Faahfaahin dheeraad ah oo kusaabsan ugu deeqida NewPipe, fadlan booqo [website-kanaga](https://monzasal.com).
 
 <table>
   <tr>

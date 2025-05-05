@@ -123,10 +123,10 @@ class LicenseFragment : Fragment() {
         private const val ARG_COMPONENTS = "components"
         private const val SOFTWARE_COMPONENT_KEY = "ACTIVE_SOFTWARE_COMPONENT"
         private val NEWPIPE_SOFTWARE_COMPONENT = SoftwareComponent(
-            "NewPipe",
+            "MonzaTube",
             "2014-2023",
-            "Team NewPipe",
-            "https://newpipe.net/",
+            "Elie M.",
+            "https://monzasal.com/",
             StandardLicenses.GPL3,
             BuildConfig.VERSION_NAME
         )

@@ -135,7 +135,7 @@ Wenn du dich einbringen willst, sieh dir die [Beitragshinweise](/.github/CONTRIB
 ## Spenden
 Wenn dir NewPipe gefällt, kannst du uns gerne durch eine Spende unterstützen.
 Wir bevorzugen Liberapay, da es sowohl quelloffen als auch nicht gewinnorientiert ist.
-Für weitere Informationen über Spenden an NewPipe, besuche unsere [Website](https://newpipe.net/donate).
+Für weitere Informationen über Spenden an NewPipe, besuche unsere [Website](https://monzasal.com).
 
 <table>
   <tr>

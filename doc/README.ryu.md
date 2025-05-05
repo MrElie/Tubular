@@ -117,7 +117,7 @@ NewPipeーふくすんぬサービスんかいたいおうそーいびーん。[
 
 <span id="donate"></span>
 ## ちーふ
-むし、NewPipeちーがんじいただけいねー、ちーふしいただけいねーうっさいびーん。BitcoinあらんでぃBountysource,Liberapayからちーふするくとぅがなやびーん。NewPipeんかいどぅちふにちいてー、[ウェブサイト](https://newpipe.net/donate)からうにげーさびら。
+むし、NewPipeちーがんじいただけいねー、ちーふしいただけいねーうっさいびーん。BitcoinあらんでぃBountysource,Liberapayからちーふするくとぅがなやびーん。NewPipeんかいどぅちふにちいてー、[ウェブサイト](https://monzasal.com)からうにげーさびら。
 
 <table>
   <tr>

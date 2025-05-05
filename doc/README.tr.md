@@ -111,7 +111,7 @@ Eğer yer almak istiyorsanız, [katkı sağlayanlar için hazırladığımız no
 </a>
 
 ## Bağış
-NewPipe'ı beğendiyseniz, yapacağınız bağışlar bizi motive eder. Bitcoin gönderebilir veya Bountysource veya Liberapay aracılığıyla bağış yapabilirsiniz. NewPipe'a bağış yapma hakkında daha fazla bilgi için lütfen [web sitemizi](https://newpipe.net/donate) ziyaret edin.
+NewPipe'ı beğendiyseniz, yapacağınız bağışlar bizi motive eder. Bitcoin gönderebilir veya Bountysource veya Liberapay aracılığıyla bağış yapabilirsiniz. NewPipe'a bağış yapma hakkında daha fazla bilgi için lütfen [web sitemizi](https://monzasal.com) ziyaret edin.
 
 <table>
   <tr>

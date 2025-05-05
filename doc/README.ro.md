@@ -112,7 +112,7 @@ Dacă doriţi să vă implicaţi, accesaţi [notele noastre de contribuţie](../
 </a>
 
 ## Donaţii
-Dacă vă place NewPipe, am fi bucuroşi să primim o donaţie. Puteţi să ne trimiteţi bitcoin sau să ne donaţi cu Bountysource sau Liberapay. Pentru mai multe informaţii în legătură cu donaţiile către NewPipe, vă rugăm vizitaţi [website-ul nostru](https://newpipe.net/donate).
+Dacă vă place NewPipe, am fi bucuroşi să primim o donaţie. Puteţi să ne trimiteţi bitcoin sau să ne donaţi cu Bountysource sau Liberapay. Pentru mai multe informaţii în legătură cu donaţiile către NewPipe, vă rugăm vizitaţi [website-ul nostru](https://monzasal.com).
 
 <table>
   <tr>

@@ -117,7 +117,7 @@ NewPipe 支援多種服務。我們的[使用文件](https://teamnewpipe.github.
 
 <span id="donate"></span>
 ## 捐款
-若你喜歡 NewPipe 我們歡迎捐款。你可以使用 bitcoin ，也能在 Bountysource 或 Liberapay 上捐款。 更多關於捐款資訊，請見我們的[網站](https://newpipe.net/donate)。
+若你喜歡 NewPipe 我們歡迎捐款。你可以使用 bitcoin ，也能在 Bountysource 或 Liberapay 上捐款。 更多關於捐款資訊，請見我們的[網站](https://monzasal.com)。
 
 <table>
   <tr>

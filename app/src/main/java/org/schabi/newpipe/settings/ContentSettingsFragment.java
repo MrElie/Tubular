@@ -23,7 +23,7 @@ public class ContentSettingsFragment extends BasePreferenceFragment {
 
     private Localization initialSelectedLocalization;
     private ContentCountry initialSelectedContentCountry;
-    private String initialLanguage;
+    //private String initialLanguage;
 
     @Override
     public void onCreatePreferences(final Bundle savedInstanceState, final String rootKey) {
@@ -31,11 +31,7 @@ public class ContentSettingsFragment extends BasePreferenceFragment {
 
         addPreferencesFromResourceRegistry();
 
-        initialSelectedLocalization = org.schabi.newpipe.util.Localization
-                .getPreferredLocalization(requireContext());
-        initialSelectedContentCountry = org.schabi.newpipe.util.Localization
-                .getPreferredContentCountry(requireContext());
-        initialLanguage = defaultPreferences.getString(getString(R.string.app_language_key), "en");
+        //initialLanguage = defaultPreferences.getString(getString(R.string.app_language_key), "en");
 
         final Preference imageQualityPreference = requirePreference(R.string.image_quality_key);
         imageQualityPreference.setOnPreferenceChangeListener(
@@ -79,13 +75,5 @@ public class ContentSettingsFragment extends BasePreferenceFragment {
         final String selectedLanguage =
                 defaultPreferences.getString(getString(R.string.app_language_key), "en");
 
-        if (!selectedLocalization.equals(initialSelectedLocalization)
-                || !selectedContentCountry.equals(initialSelectedContentCountry)
-                || !selectedLanguage.equals(initialLanguage)) {
-            Toast.makeText(requireContext(), R.string.localization_changes_requires_app_restart,
-                    Toast.LENGTH_LONG).show();
-
-            NewPipe.setupLocalization(selectedLocalization, selectedContentCountry);
-        }
     }
 }

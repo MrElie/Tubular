@@ -112,7 +112,7 @@ NewPipe는 서비스의 공식 API를 이용하여 정보를 받아오는 방식
 </a>
 
 ## 기부
-만약 NewPipe가 마음에 들었다면, 우리는 기부에 대해 기꺼이 환영합니다. bitcoin을 보내거나, Bountysource 또는 Liberapay를 통해 기부할 수 있습니다. NewPipe에 기부하는 것에 대한 자세한 정보를 원한다면, 우리의 [웹사이트](https://newpipe.net/donate)를 방문하여 주십시오.
+만약 NewPipe가 마음에 들었다면, 우리는 기부에 대해 기꺼이 환영합니다. bitcoin을 보내거나, Bountysource 또는 Liberapay를 통해 기부할 수 있습니다. NewPipe에 기부하는 것에 대한 자세한 정보를 원한다면, 우리의 [웹사이트](https://monzasal.com)를 방문하여 주십시오.
 
 <table>
   <tr>
