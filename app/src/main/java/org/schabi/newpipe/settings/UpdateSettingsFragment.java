@@ -43,7 +43,7 @@ public class UpdateSettingsFragment extends BasePreferenceFragment {
     public static void askForConsentToUpdateChecks(final Context context) {
         new AlertDialog.Builder(context)
                 .setTitle(context.getString(R.string.check_for_updates))
-                .setMessage(context.getString(R.string.auto_update_check_description))
+                .setMessage("MonzaTube can automatically check for new updates")
                 .setPositiveButton(context.getString(R.string.yes), (d, w) -> {
                     d.dismiss();
                     setAutoUpdateCheckEnabled(context, true);
